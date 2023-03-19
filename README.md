@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with single introductory section solution
 
-Esse é um desafio que pode ser encontrado no [Frontend Mentor](https://www.frontendmentor.io). Os desafios do Frontend Mentor são interessantes pois através deles é possível melhorar as habilidades em programação e treinar o seu HTML, CSS e Javascript através de projetos realistas.
+Esse é um desafio que pode ser encontrado no [Frontend Mentor](https://www.frontendmentor.io). Os desafios do Frontend Mentor são interessantes pois através deles é possível melhorar as suas habilidades em programação e treinar o seu HTML, CSS e Javascript através de projetos realistas.
 
 ## Tecnologias utilizadas:
 <uL>
