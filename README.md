@@ -10,7 +10,7 @@ Esse é um desafio que pode ser encontrado no [Frontend Mentor](https://www.fron
 <li>Display GRID</li>
 </ul>
 
-## Os desafio
+## O desafio:
 
 O desafio era criar uma landing page através dos designs fornecidos no código inicial. 
 Os usuarios devem ser capazes de:
