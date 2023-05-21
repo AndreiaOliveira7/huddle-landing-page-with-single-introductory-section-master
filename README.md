@@ -7,7 +7,7 @@ Esse é um desafio que pode ser encontrado no [Frontend Mentor](https://www.fron
 <li>HTML5</li>
 <li>CSS3</li>
 <li>Display Flex</li>
-<li>Display GRID</li>
+<li>GRID Layout</li>
 </ul>
 
 ## O desafio:
